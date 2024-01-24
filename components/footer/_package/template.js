@@ -1,0 +1,1 @@
+var oc=oc||{};oc.components=oc.components||{},oc.components["242fdb30b29d854fe1f003fa8b81a388e7824d79"]=function(o){var e=[];return e.push('<div style="background-color: green; text-align: center;"><h1>Hello Jade</h1><h2>this section in jade</h2></div>'),e.join("")};
